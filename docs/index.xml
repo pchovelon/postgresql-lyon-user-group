@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>https://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>PostgreSQL Lyon User Group</title>
+    <link>https:/https://pchovelon.github.io/postgresql-lyon-user-group/</link>
+    <description>Recent content on PostgreSQL Lyon User Group</description>
     <generator>Hugo -- 0.154.4</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 11 Jan 2026 09:48:41 +0100</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https:/https://pchovelon.github.io/postgresql-lyon-user-group/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Rencontre #21</title>
-      <link>https://example.org/posts/meetup-23-09-2025/</link>
+      <link>https:/https://pchovelon.github.io/postgresql-lyon-user-group/posts/meetup-23-09-2025/</link>
       <pubDate>Sun, 11 Jan 2026 09:48:41 +0100</pubDate>
-      <guid>https://example.org/posts/meetup-23-09-2025/</guid>
+      <guid>https:/https://pchovelon.github.io/postgresql-lyon-user-group/posts/meetup-23-09-2025/</guid>
       <description>&lt;h2 id=&#34;présentations&#34;&gt;Présentations&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Rencontre #20</title>
-      <link>https://example.org/posts/meetup-19-06-2025/</link>
+      <link>https:/https://pchovelon.github.io/postgresql-lyon-user-group/posts/meetup-19-06-2025/</link>
       <pubDate>Sun, 11 Jan 2026 09:47:41 +0100</pubDate>
-      <guid>https://example.org/posts/meetup-19-06-2025/</guid>
+      <guid>https:/https://pchovelon.github.io/postgresql-lyon-user-group/posts/meetup-19-06-2025/</guid>
       <description>&lt;h2 id=&#34;présentations&#34;&gt;Présentations&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Rencontre #19</title>
-      <link>https://example.org/posts/meetup-22-04-2025/</link>
+      <link>https:/https://pchovelon.github.io/postgresql-lyon-user-group/posts/meetup-22-04-2025/</link>
       <pubDate>Sun, 11 Jan 2026 09:46:41 +0100</pubDate>
-      <guid>https://example.org/posts/meetup-22-04-2025/</guid>
+      <guid>https:/https://pchovelon.github.io/postgresql-lyon-user-group/posts/meetup-22-04-2025/</guid>
       <description>&lt;h2 id=&#34;présentations&#34;&gt;Présentations&lt;/h2&gt;</description>
     </item>
   </channel>
