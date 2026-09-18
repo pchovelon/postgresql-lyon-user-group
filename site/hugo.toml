@@ -1,4 +1,37 @@
-baseURL = 'https:/https://pchovelon.github.io/postgresql-lyon-user-group/'
+theme = "black-and-light"
+
+[[params.socials]]
+name = "Linkedin"
+link = "https://www.linkedin.com/in/pierrick-chovelon-9522a07b/"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[[minify]]
+  disableXML = true
+  minifyOutput = true
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename ='PostgreSQL Lyon User Group'
+  disableWebFonts = false
+mainSections = ["posts"]
 languageCode = 'en-us'
+author = "David Hamp-Gonsalves"
 title = 'PostgreSQL Lyon User Group'
-theme = 'PaperMod'
+keywords = ["Meetup", "Lyon", "PostgreSQL"]
+ShowReadingTime = "true"
+ShowPostNavLinks = "true"
+ShowCodeCopyButtons = "true"
+disableSpecial1stPost = "true"
+disableScrollToTop = false
+hidemeta = false
+hideSummary = true
+[menus]
+  [[menus.main]]
+    name = 'Meetups'
+    pageRef = '/'
+    weight = 10#

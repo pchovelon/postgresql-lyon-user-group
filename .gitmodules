@@ -1,0 +1,18 @@
+[submodule "site/themes/ananke"]
+	path = site/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "site/themes/hugo-book"]
+	path = site/themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "site/themes/hugo-simple"]
+	path = site/themes/hugo-simple
+	url = https://github.com/maolonglong/hugo-simple.git
+[submodule "site/themes/etch"]
+	path = site/themes/etch
+	url = https://github.com/LukasJoswiak/etch.git
+[submodule "site/themes/enchanted-lowkey"]
+	path = site/themes/enchanted-lowkey
+	url = git@github.com:nixentric/Lowkey-Hugo-Theme.git
+[submodule "site/themes/themes/black-and-light"]
+	path = site/themes/themes/black-and-light
+	url = https://github.com/davidhampgonsalves/hugo-black-and-light-theme.git
